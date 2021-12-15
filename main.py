@@ -1,1 +1,1 @@
-"""Program that checks if year is leap"""
+"""Program that checks if year 2020 is leap"""
